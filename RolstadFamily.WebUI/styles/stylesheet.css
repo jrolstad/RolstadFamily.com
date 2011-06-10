@@ -1,0 +1,63 @@
+﻿.MainBanner
+{
+   width: 100%;
+   background-color: Navy;
+   font-size: 12pt;
+   color: #ffffff;
+   font-family: 'Lucida Sans';
+   font-weight: bold;
+}
+BODY 
+{
+	FONT-SIZE: 16pt;  
+	LINE-HEIGHT: 28pt; 
+	FONT-FAMILY: DIN,sans-serif
+}
+DIV 
+{
+	DISPLAY: inline; 
+	COLOR: #a9a9a9;
+}
+DIV A 
+{
+	COLOR: #ccc; 
+	TEXT-DECORATION: none
+}
+DIV:hover 
+{
+	DISPLAY: inline; 
+	COLOR: #555
+}
+DIV:hover A 
+{
+	COLOR: #369; 
+	TEXT-DECORATION: underline
+}
+.Header
+{
+	DISPLAY: inline; 
+	COLOR: #555
+}
+.NewsBody
+{
+	background-color: #CAD9EB;
+}
+.NewsHeader
+{
+  	font-family: Verdana, Arial, Helvetica, sans-serif;
+  	font-size: 13px;
+  	line-height: 16px;
+  	color: #424b57;
+  	font-weight: bold;
+}
+.NewsText 
+{
+  	font-family: Verdana, Arial, Helvetica, sans-serif;
+  	font-size: 11px;
+  	color: #424b57;
+}
+#dmp 
+{
+	FONT-SIZE: 24pt; 
+	COLOR: #222
+}
