@@ -5,7 +5,6 @@
     <table> 
 		<tr> 
 			<td> 
-        			<div><img src="images/Banner.jpg" alt="Banner"/></div><br /> 
         			<br /> 
         			<div>... our family pictures can be found on our <a href="http://flickr.com/photos/rolstad">Flickr</a> site</div><br /> 
         			<div>... Josh's bookmarks can be found online at <a href="http://del.icio.us/jrolstad">del.icio.us</a></div><br /> 
